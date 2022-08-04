@@ -1,0 +1,24 @@
+{
+  "name": "ekbana-task2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabaraj77/EkbanaTask2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nabaraj77/EkbanaTask2/issues"
+  },
+  "homepage": "https://github.com/nabaraj77/EkbanaTask2#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
